@@ -6,7 +6,7 @@
 
 # configurar el archivo .env con credenciales de la base de datos
 
-# tener previamente instalado nodejs y npm
+# tener previamente instalado nodejs y npm y algun servidor local de como laragon o xamp, o el de preferencia
 
 # Para ejecutar el proyecto se debe poner el comando "npm start"
   el cual ya está configurado para que inicie el proyecto
